@@ -1,7 +1,7 @@
 # 🎮 Profilo gamer di Ricca Luigi
 
-**età:** 18
-**nickname:** bombolarograsso17
+**età:** 18  
+**nickname:** bombolarograsso17  
 **piattaforma preferita:** ps5
 
 ## ❤ i miei giochi preferiti
