@@ -6,8 +6,8 @@
 
 ## ❤ i miei giochi preferiti
 
--fifa26
--gta
+-fifa26  
+-gta  
 -fortnite
 
 # link utile
